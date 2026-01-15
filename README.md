@@ -1,3 +1,6 @@
+# Asteroids game
+
+https://realpython.com/asteroids-game-python/?utm_source=chatgpt.com
 
 ## Dev
 
